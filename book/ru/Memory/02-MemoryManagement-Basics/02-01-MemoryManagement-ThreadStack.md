@@ -28,7 +28,7 @@ void Method2(int arg)
 
 Те же самые процессы можно посмотреть на изображении:
 
-![](./imgs/ThreadStack/AnyMethodCall.png)
+![AnyMethodCall](https://github.com/sidristij/dotnetbook/blob/master/book/ru/Memory/imgs/ThreadStack/AnyMethodCall.png)
 
 Также замечу, что стек "растёт", начиная со старших адресов и заканчивая младшими, т.е. в обратную сторону.
 
